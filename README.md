@@ -10,7 +10,23 @@
 
 ## 🌟 About Me
 
-I am passionate about turning raw data into actionable insights and building scalable data solutions. My experience includes working with popular tools like **Excel**, **Tableau**, **Microsoft Power BI**, and **Python**, and I have a growing expertise in **MS Azure** and **R**. I am constantly learning and expanding my skill set to stay ahead in the world of data.
+## Aspiring Data/Business Analyst | Master’s in Business Analytics | Data Technician Bootcamp Graduate
+
+I am an aspiring Data and Business Analyst with a Master’s degree in Business Analytics from Northumbria University, Newcastle, and a completed Data Technician Bootcamp from Just IT. My educational and technical background has equipped me with a solid foundation in data analysis, statistical modeling, and business strategy, empowering me to derive actionable insights that drive business growth.
+
+Throughout my academic journey and intensive bootcamp training, I developed proficiency in tools such as Python, SQL, Excel, Tableau, and Power BI, among others. I have a deep understanding of data visualization, data cleaning, predictive analytics, and business intelligence reporting. My passion lies in transforming raw data into meaningful insights, enabling businesses to make informed, data-driven decisions.
+
+Core Competencies:
+
+Data Analysis & Visualization (Power BI, Tableau, Excel)
+SQL & Database Management
+Statistical Modeling & Predictive Analytics
+Business Intelligence Reporting
+Python for Data Analysis
+Data Cleaning & Transformation
+Problem-Solving & Critical Thinking
+Cross-functional Collaboration & Communication
+I am driven by a keen interest in leveraging data to solve complex business problems and optimize operational efficiency. As I work towards my goal of becoming a proficient Data/Business Analyst, I am eager to apply my analytical mindset, technical skills, and business acumen to real-world challenges.
 
 ---
 
@@ -18,20 +34,20 @@ I am passionate about turning raw data into actionable insights and building sca
 
 <div align="center">
 
-|  | |
-|:---------------------------------:|:---------------------------------:|
-| ![Excel](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif) | ![PowerBI](https://media.giphy.com/media/l46CyJmS9KUbokzsI/giphy.gif) |
-| **Microsoft Excel** | **Power BI** |
-| ![Python](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif) | ![Tableau](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif) |
-| **Python** | **Tableau** |
-| ![R Programming](https://media.giphy.com/media/2rtQMJvhzOnRe/giphy.gif) | ![Azure](https://media.giphy.com/media/Zev8gRqEmITjgYEo40/giphy.gif) |
-| **R Programming** | **MS Azure** |
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)
 
 </div>
 
 ---
 
 ## 🛠️ Technologies & Tools I've Worked With
+
+I am passionate about turning raw data into actionable insights and building scalable data solutions. My experience includes working with popular tools like **Excel**, **Tableau**, **Microsoft Power BI**, and **Python**, and I have a growing expertise in **MS Azure** and **R**. I am constantly learning and expanding my skill set to stay ahead in the world of data.
+
 
 - **Programming Languages**: Python, R
 - **Data Visualization Tools**: Tableau, Microsoft Power BI, Excel
