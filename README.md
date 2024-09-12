@@ -57,26 +57,6 @@ _My experience includes working with popular tools like **Excel**, **Tableau**, 
 
 ---
 
-## 🚀 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub streak stats">
-</p>
-
----
-
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top languages">
-</p>
-
----
-
 ## 📈 Professional Journey
 
 - 🧑‍💻 Currently learning advanced **Data Engineering** concepts and cloud-based data solutions.
@@ -113,6 +93,16 @@ _My experience includes working with popular tools like **Excel**, **Tableau**, 
 
 ---
 
+## 🏅 Certifications / Education
+
+- **MS Business Analytics- Northumbria University - Newcastle, UK**
+- - **UK Government Data Analytics Bootcamp - Sponsored**
+- - **Microsoft Certified: Azure Fundamentals**
+  - - **Introduction to Tableau- Datacamp**
+- **[Other Certifications]**
+
+---
+
 ## 🎯 Goals for 2024
 
 - ✅ Master **Cloud Data Engineering**.
@@ -121,13 +111,23 @@ _My experience includes working with popular tools like **Excel**, **Tableau**, 
 
 ---
 
-## 🏅 Certifications
+## 🚀 My GitHub Stats
 
-- **MS Business Analytics- Northumbria University - Newcastle, UK**
-- - **UK Government Data Analytics Bootcamp - Sponsored**
-- - **Microsoft Certified: Azure Fundamentals**
-  - - **Introduction to Tableau- Datacamp**
-- **[Other Certifications]**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub streak stats">
+</p>
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top languages">
+</p>
 
 ---
 
