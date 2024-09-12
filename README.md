@@ -1,4 +1,4 @@
-<!-- Header with a greeting and brief intro -->
+<!-- **Welcome to my Hub **-->
 <p align="center">
   <img src="https://media.giphy.com/media/26ufq9m6qk5wFxmnC/giphy.gif" width="100">
 </p>
@@ -16,7 +16,7 @@ I am an aspiring Data and Business Analyst with a Master’s degree in Business 
 
 Throughout my academic journey and intensive bootcamp training, I developed proficiency in tools such as Python, SQL, Excel, Tableau, and Power BI, among others. I have a deep understanding of data visualization, data cleaning, predictive analytics, and business intelligence reporting. My passion lies in transforming raw data into meaningful insights, enabling businesses to make informed, data-driven decisions.
 
-Core Competencies:
+## 🌟 Core Competencies:
 
 Data Analysis & Visualization (Power BI, Tableau, Excel)
 SQL & Database Management
@@ -46,7 +46,7 @@ I am driven by a keen interest in leveraging data to solve complex business prob
 
 ## 🛠️ Technologies & Tools I've Worked With
 
-I am passionate about turning raw data into actionable insights and building scalable data solutions. My experience includes working with popular tools like **Excel**, **Tableau**, **Microsoft Power BI**, and **Python**, and I have a growing expertise in **MS Azure** and **R**. I am constantly learning and expanding my skill set to stay ahead in the world of data.
+_My experience includes working with popular tools like **Excel**, **Tableau**, **Microsoft Power BI**, and **Python**, and I have a growing expertise in **MS Azure** and **R**. I am constantly learning and expanding my skill set to stay ahead in the world of data._
 
 
 - **Programming Languages**: Python, R
