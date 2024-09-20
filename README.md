@@ -60,8 +60,8 @@ _My experience includes working with popular tools like **Excel**, **Tableau**, 
 ## 📈 Professional Journey
 
 - 🧑‍💻 Currently learning advanced **Data Engineering** concepts and cloud-based data solutions.
-- 🔍 Keen interest in **Business Analytics** and **Data Visualization**.
-- 🏆 Looking to collaborate on **Data Science** and **Data Engineering** projects.
+- 🔍 Keen interest in **Business Analytics** and **Data Technian**.
+- 🏆 Looking to collaborate on **Business Intelligence Analysis** and **Data Analytics** projects.
 
 ---
 
