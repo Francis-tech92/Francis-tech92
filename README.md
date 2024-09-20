@@ -69,7 +69,7 @@ _My experience includes working with popular tools like **Excel**, **Tableau**, 
 
 - **Email**: [abbanfrancis10@yahoo.com]
 - **LinkedIn**: [(https://www.linkedin.com/in/francis-abban-2541871b0/)]
-- **Portfolio**: [(https://github.com/Francis-tech92/Francis-tech92/edit/main/README.md)]
+- **Portfolio**: [(https://public.tableau.com/app/profile/francis2283/vizzes)]
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200">
